@@ -1,0 +1,14 @@
+{
+  "name": "test-app-hello2",
+  "version": "1.0.0",
+  "description": "A simple API application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
