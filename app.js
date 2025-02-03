@@ -6,7 +6,7 @@ const port = 3000;
 
 // Endpoint untuk 'Hello, World!'
 app.get('/', (req, res) => {
-    res.send('Hello, World!5');
+    res.send('Hello, World!6');
 });
 
 // Start server
